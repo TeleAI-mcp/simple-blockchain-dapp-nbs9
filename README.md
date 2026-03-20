@@ -1,2 +1,3 @@
-# simple-blockchain-dapp-nbs9
-Simple blockchain Dapp repository
+# Simple Blockchain Dapp Nbs9
+
+Automated issue comment bot repository.
